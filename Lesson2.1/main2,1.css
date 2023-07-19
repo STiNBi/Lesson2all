@@ -1,0 +1,56 @@
+p{
+   color: rgb(250, 211, 16); 
+}
+
+.green_aqua{
+    color-scheme: rgb(170, 255, 0);
+    background-color: aqua;
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+    box-shadow: rgba(195, 82, 41, 0.545);
+}
+
+.lviv{
+color: yellow;
+background-color: blue;
+}
+
+body
+{
+    background-color:rgb(7, 160, 163)
+}
+
+.zmist
+{
+    color:rgb(0, 234, 255);
+    background-color: rgb(15, 81, 94);
+    
+}
+
+.correct
+{
+    background-color:green;
+    color:gold;
+}
+
+.incorrect
+{
+    background-color:red;
+    color:black
+}
+
+.importent
+{
+    background-color:rgb(88, 178, 88)
+}
+
+.shadow
+{
+    box-shadow: 10px 5px 5px rgba(3, 15, 17, 0.92);
+}
+
+.right
+{
+    text-align: right;    
+}
